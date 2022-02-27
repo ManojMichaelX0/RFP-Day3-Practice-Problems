@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UseCase-2-LineComparision-equals/1.0.0": {
+        "runtime": {
+          "UseCase-2-LineComparision-equals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UseCase-2-LineComparision-equals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
