@@ -1,0 +1,16 @@
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\bin\Debug\net5.0\UseCase-1-LineComparision.exe
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\bin\Debug\net5.0\UseCase-1-LineComparision.deps.json
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\bin\Debug\net5.0\UseCase-1-LineComparision.runtimeconfig.json
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\bin\Debug\net5.0\UseCase-1-LineComparision.runtimeconfig.dev.json
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\bin\Debug\net5.0\UseCase-1-LineComparision.dll
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\bin\Debug\net5.0\UseCase-1-LineComparision.pdb
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\obj\Debug\net5.0\UseCase-1-LineComparision.csproj.AssemblyReference.cache
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\obj\Debug\net5.0\UseCase-1-LineComparision.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\obj\Debug\net5.0\UseCase-1-LineComparision.AssemblyInfoInputs.cache
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\obj\Debug\net5.0\UseCase-1-LineComparision.AssemblyInfo.cs
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\obj\Debug\net5.0\UseCase-1-LineComparision.csproj.CoreCompileInputs.cache
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\obj\Debug\net5.0\UseCase-1-LineComparision.dll
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\obj\Debug\net5.0\refint\UseCase-1-LineComparision.dll
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\obj\Debug\net5.0\UseCase-1-LineComparision.pdb
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\obj\Debug\net5.0\UseCase-1-LineComparision.genruntimeconfig.cache
+D:\.net\UseCase-1-LineComparision\UseCase-1-LineComparision\obj\Debug\net5.0\ref\UseCase-1-LineComparision.dll
