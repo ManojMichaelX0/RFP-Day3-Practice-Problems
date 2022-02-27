@@ -10,7 +10,7 @@ namespace UseCase_6
             int is_FullTime = 1;
             int is_PartTime = 2;
             int emp_Rate_Per_Hr = 20;
-            int total_Working_Hrs = 100;
+            int total_Working_Hrs = 99;
             int total_Work_Days_In_Month = 20;
 
 
