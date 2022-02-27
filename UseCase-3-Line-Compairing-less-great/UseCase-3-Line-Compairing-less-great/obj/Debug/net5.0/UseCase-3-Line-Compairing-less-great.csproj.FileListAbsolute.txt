@@ -1,0 +1,16 @@
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\bin\Debug\net5.0\UseCase-3-Line-Compairing-less-great.exe
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\bin\Debug\net5.0\UseCase-3-Line-Compairing-less-great.deps.json
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\bin\Debug\net5.0\UseCase-3-Line-Compairing-less-great.runtimeconfig.json
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\bin\Debug\net5.0\UseCase-3-Line-Compairing-less-great.runtimeconfig.dev.json
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\bin\Debug\net5.0\UseCase-3-Line-Compairing-less-great.dll
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\bin\Debug\net5.0\UseCase-3-Line-Compairing-less-great.pdb
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\obj\Debug\net5.0\UseCase-3-Line-Compairing-less-great.csproj.AssemblyReference.cache
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\obj\Debug\net5.0\UseCase-3-Line-Compairing-less-great.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\obj\Debug\net5.0\UseCase-3-Line-Compairing-less-great.AssemblyInfoInputs.cache
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\obj\Debug\net5.0\UseCase-3-Line-Compairing-less-great.AssemblyInfo.cs
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\obj\Debug\net5.0\UseCase-3-Line-Compairing-less-great.csproj.CoreCompileInputs.cache
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\obj\Debug\net5.0\UseCase-3-Line-Compairing-less-great.dll
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\obj\Debug\net5.0\refint\UseCase-3-Line-Compairing-less-great.dll
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\obj\Debug\net5.0\UseCase-3-Line-Compairing-less-great.pdb
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\obj\Debug\net5.0\UseCase-3-Line-Compairing-less-great.genruntimeconfig.cache
+D:\.net\UseCase-3-Line-Compairing-less-great\UseCase-3-Line-Compairing-less-great\obj\Debug\net5.0\ref\UseCase-3-Line-Compairing-less-great.dll
