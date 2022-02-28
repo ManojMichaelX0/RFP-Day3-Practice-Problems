@@ -1,0 +1,16 @@
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\bin\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.exe
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\bin\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.deps.json
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\bin\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.runtimeconfig.json
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\bin\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.runtimeconfig.dev.json
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\bin\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.dll
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\bin\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.pdb
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\obj\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.csproj.AssemblyReference.cache
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\obj\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\obj\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.AssemblyInfoInputs.cache
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\obj\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.AssemblyInfo.cs
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\obj\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.csproj.CoreCompileInputs.cache
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\obj\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.dll
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\obj\Debug\net5.0\refint\UseCase-1to6-Snake-and-Ladder.dll
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\obj\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.pdb
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\obj\Debug\net5.0\UseCase-1to6-Snake-and-Ladder.genruntimeconfig.cache
+D:\.net\UseCase-1to6-Snake-and-Ladder\UseCase-1to6-Snake-and-Ladder\obj\Debug\net5.0\ref\UseCase-1to6-Snake-and-Ladder.dll
